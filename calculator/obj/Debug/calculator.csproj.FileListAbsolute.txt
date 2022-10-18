@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Custom Office Templates\C#\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\admin\Documents\Custom Office Templates\C#\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\admin\Documents\Custom Office Templates\C#\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\admin\Documents\Custom Office Templates\C#\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Custom Office Templates\C#\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\admin\Documents\Custom Office Templates\C#\calculator\calculator\obj\Debug\calculator.pdb
